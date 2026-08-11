@@ -22,12 +22,9 @@ En este perfil comparto proyectos, prácticas y ejercicios con los que sigo apre
 
 ## 📚 Actualmente aprendiendo
 
-- Consultas SQL (joins, agregaciones, subconsultas)
-- Programación orientada a objetos con Java
-- Lógica de programación y estructuras de datos en Python
-- Desarrollo web con JavaScript
-- Buenas prácticas de control de versiones con Git
-- Documentación de proyectos en GitHub
+- AWS (dashboards y servicios en la nube)
+- Fundamentos de Inteligencia Artificial
+- Fundamentos de Big Data
 
 ## 📌 Proyectos que encontrarás aquí
 

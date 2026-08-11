@@ -22,14 +22,13 @@ En este perfil comparto proyectos, prácticas y ejercicios con los que sigo apre
 
 ## 📚 Actualmente aprendiendo
 
-- AWS (dashboards y servicios en la nube)
+- AWS (servicios en la nube)
 - Fundamentos de Inteligencia Artificial
 - Fundamentos de Big Data
 
 ## 📌 Proyectos que encontrarás aquí
 
-- Ejercicios y prácticas de programación en Python, Java y JavaScript
-- Consultas y ejercicios en SQL
+- Ejercicios y prácticas de programación
 - Proyectos académicos de Ingeniería Informática
 - Ejercicios de aprendizaje en desarrollo de software
 
